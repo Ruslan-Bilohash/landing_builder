@@ -15,7 +15,7 @@ return [
             ['icon' => 'fa-download', 'title' => 'Export HTML', 'text' => 'Download index.html and host anywhere — shared hosting, CDN or hPanel.'],
             ['icon' => 'fa-palette', 'title' => 'Themes & icons', 'text' => '12 color themes, icon sets, nav/footer styles, floating messengers.'],
             ['icon' => 'fa-sitemap', 'title' => 'Page templates', 'text' => 'Start from ready layouts for business, portfolio, restaurant, events.'],
-            ['icon' => 'fa-globe', 'title' => 'Multilingual UI', 'text' => 'Builder interface in English, Ukrainian and Norwegian (more in ecosystem).'],
+            ['icon' => 'fa-globe', 'title' => 'Multilingual UI', 'text' => 'Builder UI in EN, UA, NO, RU, DE, PL, SV, LT — language dropdown on every page.'],
         ],
         'screenshots_title' => 'Screenshots',
         'screenshots' => [

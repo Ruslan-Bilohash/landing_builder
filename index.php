@@ -23,6 +23,9 @@ require __DIR__ . '/includes/header.php';
       <a href="<?= lb_h(lb_url('demo-install.php', $lang !== 'en' ? ['lang' => $lang] : [])) ?>" class="lb-btn lb-btn-ghost">
         <i class="fa-solid fa-box-open"></i> <?= lb_h($h['demo_install_cta'] ?? '30-day install') ?>
       </a>
+      <a href="<?= lb_h(lb_join_url($lang)) ?>" class="lb-btn lb-btn-ghost">
+        <i class="fa-solid fa-handshake"></i> <?= lb_h($t['want_builder'] ?? 'I want this builder') ?>
+      </a>
       <a href="https://bilohash.com/hosting/panel/landing-builder.php" class="lb-btn lb-btn-ghost" target="_blank" rel="noopener">
         <i class="fa-solid fa-server"></i> <?= lb_h($h['hosting_cta'] ?? 'Hosting hPanel') ?>
       </a>

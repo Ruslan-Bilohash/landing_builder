@@ -37,7 +37,12 @@ ob_start();
       <span class="elb-brand"><i class="fa-solid fa-layer-group"></i> <?= lb_h($t['landing_elb_title'] ?? 'Page Builder') ?></span>
     </div>
 
+    <div class="elb-topbar-group elb-topbar-center elb-topbar-lang">
+      <?php $lb_lang_dropdown_variant = 'builder'; require __DIR__ . '/includes/lang-dropdown.php'; ?>
+    </div>
+
     <div class="elb-topbar-group elb-topbar-right">
+      <a href="<?= lb_h(lb_join_url($lang)) ?>" class="elb-topbar-btn elb-topbar-want" title="<?= lb_h($t['want_builder_title'] ?? '') ?>"><i class="fa-solid fa-handshake"></i><span><?= lb_h($t['want_builder'] ?? 'I want this builder') ?></span></a>
       <button type="button" class="elb-topbar-btn" data-elb-tips-open title="<?= lb_h($t['landing_tips_help_btn'] ?? 'Tips') ?>"><i class="fa-solid fa-circle-question"></i></button>
       <button type="button" class="elb-topbar-btn" data-elb-toggle="left" title="<?= lb_h($t['landing_panel_left'] ?? 'Panel') ?>"><i class="fa-solid fa-bars"></i></button>
       <button type="button" class="elb-topbar-btn" data-elb-toggle="right" title="<?= lb_h($t['landing_panel_right'] ?? 'Edit') ?>"><i class="fa-solid fa-sliders"></i></button>

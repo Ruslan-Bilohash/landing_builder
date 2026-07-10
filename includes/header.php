@@ -30,11 +30,8 @@ $lang_meta = lb_langs()[$lang] ?? lb_langs()['en'];
   <nav class="lb-nav">
     <a href="<?= lb_h(lb_url('builder.php', $lang !== 'en' ? ['lang' => $lang] : [])) ?>" class="lb-nav-cta"><i class="fa-solid fa-wand-magic-sparkles"></i> <?= lb_h($t['nav_builder'] ?? 'Builder') ?></a>
     <a href="<?= lb_h(lb_url('demo-install.php', $lang !== 'en' ? ['lang' => $lang] : [])) ?>"><?= lb_h($t['nav_demo_install'] ?? '30-day demo') ?></a>
-    <a href="https://bilohash.com/ecosystem/join.php"><?= lb_h($t['nav_ecosystem'] ?? 'Ecosystem') ?></a>
-    <?php foreach (lb_langs() as $code => $meta): ?>
-      <?php if ($code === $lang) continue; ?>
-      <a href="?lang=<?= lb_h($code) ?>" hreflang="<?= lb_h($meta['html']) ?>"><?= lb_h($meta['label']) ?></a>
-    <?php endforeach; ?>
+    <a href="<?= lb_h(lb_join_url($lang)) ?>" class="lb-nav-want"><i class="fa-solid fa-handshake"></i> <?= lb_h($t['want_builder'] ?? 'I want this builder') ?></a>
+    <?php $lb_lang_dropdown_variant = 'site'; require __DIR__ . '/lang-dropdown.php'; ?>
   </nav>
 </header>
 <main class="lb-main">

@@ -34,3 +34,10 @@ function lb_demo_user(): array
         'pending_domain' => 'example.com',
     ];
 }
+
+function lb_lang_url(string $code): string
+{
+    $script = basename($_SERVER['SCRIPT_NAME'] ?? 'index.php');
+
+    return lb_url($script, $code !== 'en' ? ['lang' => $code] : []);
+}

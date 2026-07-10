@@ -1,6 +1,4 @@
-## Languages / Мови
-
-[English](docs/readme/README.en.md) · [Українська](docs/readme/README.uk.md) · [Norsk](docs/readme/README.no.md) · [Русский](docs/readme/README.ru.md) · [Deutsch](docs/readme/README.de.md) · [Polski](docs/readme/README.pl.md) · [Svenska](docs/readme/README.sv.md) · [Lietuvių](docs/readme/README.lt.md)
+**Languages:** [English](README.en.md) · [Українська](README.uk.md) · [Norsk](README.no.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Svenska](README.sv.md) · [Lietuvių](README.lt.md)
 
 # BILOHASH Landing Builder
 
@@ -20,15 +18,15 @@ Elementor-style visual landing page builder extracted from [BILOHASH Hosting](ht
 
 ### Main builder — widgets, structure, live canvas
 
-![Main builder](docs/screenshots/builder_website_main.webp)
+![Main builder](../screenshots/builder_website_main.webp)
 
 ### Block editor and theme settings
 
-![Block editor](docs/screenshots/builder_website.webp)
+![Block editor](../screenshots/builder_website.webp)
 
 ### Published HTML output
 
-![HTML export](docs/screenshots/builder_website_html.webp)
+![HTML export](../screenshots/builder_website_html.webp)
 
 ## Features
 
