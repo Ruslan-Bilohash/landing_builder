@@ -3,6 +3,7 @@
     "description": "BILOHASH Landing Builder — Elementor-style visual page builder with HTML export",
     "type": "project",
     "license": "proprietary",
+    "keywords": ["landing-page", "page-builder", "bilohash", "non-commercial-demo"],
     "require": {
         "php": ">=8.1"
     }

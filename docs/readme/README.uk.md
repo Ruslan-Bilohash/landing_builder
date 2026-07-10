@@ -82,4 +82,11 @@ php -S localhost:8080
 
 ## Ліцензія
 
-Пропрієтарна — © BILOHASH / Ruslan Bilohash. Демо для оцінювання; комерційне використання потребує ліцензії.
+**Лише некомерційне використання** — можна переглядати, вивчати, форкати та запускати демо для особистого навчання та оцінювання.
+
+**Комерційне використання потребує платної ліцензії BILOHASH** (сайти клієнтів, SaaS, перепродаж, продакшн понад 30-денне демо).
+
+- [LICENSE](../../LICENSE) (англійською)
+- [LICENSE-uk.md](../../LICENSE-uk.md) · [LICENSE-ru.md](../../LICENSE-ru.md) · [LICENSE-no.md](../../LICENSE-no.md) · [LICENSE-de.md](../../LICENSE-de.md) · [LICENSE-pl.md](../../LICENSE-pl.md) · [LICENSE-sv.md](../../LICENSE-sv.md) · [LICENSE-lt.md](../../LICENSE-lt.md)
+
+Контакт: [rbilohash@gmail.com](mailto:rbilohash@gmail.com) · [ecosystem/join.php](https://bilohash.com/ecosystem/join.php)

@@ -7,6 +7,11 @@ declare(strict_types=1);
     <a href="https://github.com/Ruslan-Bilohash/landing_builder">GitHub</a> ·
     <a href="https://bilohash.com/">bilohash.com</a>
   </p>
+  <p class="lb-license-note">
+    <?= lb_h($t['license_footer'] ?? 'Non-commercial use only. Commercial use requires a') ?>
+    <a href="<?= lb_h(lb_join_url($lang)) ?>"><?= lb_h($t['license_link'] ?? 'BILOHASH license') ?></a>.
+    <a href="https://github.com/Ruslan-Bilohash/landing_builder/blob/main/LICENSE">LICENSE</a>
+  </p>
 </footer>
 <?php
 $ecoStrip = __DIR__ . '/ecosystem-strip.php';

@@ -69,6 +69,8 @@ function lb_lang_extra(string $lang): array
             'export_html_title' => 'Download page as index.html',
             'landing_tip_export' => 'Export HTML downloads a ready index.html — host it anywhere.',
             'landing_tip_no_save' => 'This demo does not save to the server. Use Export HTML or browser storage.',
+            'license_footer' => 'Non-commercial use only. Commercial use requires a',
+            'license_link' => 'BILOHASH license',
         ],
         'uk' => [
             'brand' => 'BILOHASH Landing Builder',
@@ -84,6 +86,8 @@ function lb_lang_extra(string $lang): array
             'export_html_title' => 'Завантажити сторінку як index.html',
             'landing_tip_export' => 'Експорт HTML завантажує готовий index.html — розмістіть на будь-якому хостингу.',
             'landing_tip_no_save' => 'Це демо не зберігає на сервер. Використовуйте експорт HTML або сховище браузера.',
+            'license_footer' => 'Лише некомерційне використання. Для комерції потрібна',
+            'license_link' => 'ліцензія BILOHASH',
         ],
         'no' => [
             'brand' => 'BILOHASH Landing Builder',
@@ -99,6 +103,8 @@ function lb_lang_extra(string $lang): array
             'export_html_title' => 'Last ned siden som index.html',
             'landing_tip_export' => 'Eksporter HTML laster ned en ferdig index.html — host den hvor som helst.',
             'landing_tip_no_save' => 'Denne demoen lagrer ikke på server. Bruk HTML-eksport eller nettleserlagring.',
+            'license_footer' => 'Kun ikke-kommersiell bruk. Kommersiell bruk krever',
+            'license_link' => 'BILOHASH-lisens',
         ],
         'ru' => [
             'brand' => 'BILOHASH Landing Builder',
@@ -114,6 +120,8 @@ function lb_lang_extra(string $lang): array
             'export_html_title' => 'Скачать страницу как index.html',
             'landing_tip_export' => 'Экспорт HTML загружает готовый index.html — разместите на любом хостинге.',
             'landing_tip_no_save' => 'Демо не сохраняет на сервер. Используйте экспорт HTML или хранилище браузера.',
+            'license_footer' => 'Только некоммерческое использование. Для коммерции нужна',
+            'license_link' => 'лицензия BILOHASH',
         ],
         'de' => [
             'brand' => 'BILOHASH Landing Builder',
@@ -129,6 +137,8 @@ function lb_lang_extra(string $lang): array
             'export_html_title' => 'Seite als index.html herunterladen',
             'landing_tip_export' => 'HTML-Export lädt eine fertige index.html — hosten Sie sie überall.',
             'landing_tip_no_save' => 'Diese Demo speichert nicht auf dem Server. Nutzen Sie HTML-Export oder Browser-Speicher.',
+            'license_footer' => 'Nur nicht-kommerzielle Nutzung. Kommerzielle Nutzung erfordert eine',
+            'license_link' => 'BILOHASH-Lizenz',
         ],
         'pl' => [
             'brand' => 'BILOHASH Landing Builder',
@@ -144,6 +154,8 @@ function lb_lang_extra(string $lang): array
             'export_html_title' => 'Pobierz stronę jako index.html',
             'landing_tip_export' => 'Eksport HTML pobiera gotowy index.html — hostuj gdziekolwiek.',
             'landing_tip_no_save' => 'To demo nie zapisuje na serwerze. Użyj eksportu HTML lub pamięci przeglądarki.',
+            'license_footer' => 'Tylko użycie niekomercyjne. Użycie komercyjne wymaga',
+            'license_link' => 'licencji BILOHASH',
         ],
         'sv' => [
             'brand' => 'BILOHASH Landing Builder',
@@ -159,6 +171,8 @@ function lb_lang_extra(string $lang): array
             'export_html_title' => 'Ladda ner sidan som index.html',
             'landing_tip_export' => 'HTML-export laddar ner en färdig index.html — hosta var som helst.',
             'landing_tip_no_save' => 'Denna demo sparar inte på servern. Använd HTML-export eller webbläsarlagring.',
+            'license_footer' => 'Endast icke-kommersiell användning. Kommersiell användning kräver',
+            'license_link' => 'BILOHASH-licens',
         ],
         'lt' => [
             'brand' => 'BILOHASH Landing Builder',
@@ -174,6 +188,8 @@ function lb_lang_extra(string $lang): array
             'export_html_title' => 'Atsisiųsti puslapį kaip index.html',
             'landing_tip_export' => 'HTML eksportas atsisiunčia paruoštą index.html — talpinkite bet kur.',
             'landing_tip_no_save' => 'Ši demo neišsaugo serveryje. Naudokite HTML eksportą arba naršyklės saugyklą.',
+            'license_footer' => 'Tik nekomercinis naudojimas. Komerciniam naudojimui reikia',
+            'license_link' => 'BILOHASH licencijos',
         ],
     ];
 

@@ -82,4 +82,11 @@ Dalė [BILOHASH CMS ekosistemos](https://bilohash.com/ecosystem/join.php) — Sh
 
 ## Licencija
 
-Nuosavybinė — © BILOHASH / Ruslan Bilohash. Demonstracija vertinimui; komerciniam naudojimui reikalinga licencija.
+**Tik nekomercinis naudojimas** — galite peržiūrėti, studijuoti, forkinti ir paleisti demonstraciją asmeniniam mokymuisi ir vertinimui.
+
+**Komerciniam naudojimui reikalinga mokama BILOHASH licencija** (klientų svetainės, SaaS, perpardavimas, produkcija viršijant 30 dienų demonstraciją).
+
+- [LICENSE](../../LICENSE) (anglų k.)
+- [LICENSE-uk.md](../../LICENSE-uk.md) · [LICENSE-ru.md](../../LICENSE-ru.md) · [LICENSE-no.md](../../LICENSE-no.md) · [LICENSE-de.md](../../LICENSE-de.md) · [LICENSE-pl.md](../../LICENSE-pl.md) · [LICENSE-sv.md](../../LICENSE-sv.md) · [LICENSE-lt.md](../../LICENSE-lt.md)
+
+Kontaktas: [rbilohash@gmail.com](mailto:rbilohash@gmail.com) · [ecosystem/join.php](https://bilohash.com/ecosystem/join.php)

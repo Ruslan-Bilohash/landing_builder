@@ -82,4 +82,11 @@ Teil des [BILOHASH CMS-Ökosystems](https://bilohash.com/ecosystem/join.php) —
 
 ## Lizenz
 
-Proprietär — © BILOHASH / Ruslan Bilohash. Demo zur Evaluierung; kommerzielle Nutzung erfordert eine Lizenz.
+**Nur nicht-kommerzielle Nutzung** — Sie dürfen die Demo ansehen, studieren, forken und für persönliches Lernen und Evaluierung ausführen.
+
+**Kommerzielle Nutzung erfordert eine kostenpflichtige BILOHASH-Lizenz** (Kundenwebsites, SaaS, Weiterverkauf, Produktion über die 30-Tage-Demo hinaus).
+
+- [LICENSE](../../LICENSE) (Englisch)
+- [LICENSE-uk.md](../../LICENSE-uk.md) · [LICENSE-ru.md](../../LICENSE-ru.md) · [LICENSE-no.md](../../LICENSE-no.md) · [LICENSE-de.md](../../LICENSE-de.md) · [LICENSE-pl.md](../../LICENSE-pl.md) · [LICENSE-sv.md](../../LICENSE-sv.md) · [LICENSE-lt.md](../../LICENSE-lt.md)
+
+Kontakt: [rbilohash@gmail.com](mailto:rbilohash@gmail.com) · [ecosystem/join.php](https://bilohash.com/ecosystem/join.php)

@@ -63,6 +63,7 @@ a:hover { text-decoration: underline; }
 .lb-compare { background: #fff; border: 1px solid var(--lb-border); border-radius: var(--lb-radius); padding: 1.25rem; max-width: 52rem; margin: 0 auto; }
 .lb-muted { color: var(--lb-muted); }
 .lb-footer { text-align: center; padding: 2rem 1rem; font-size: .85rem; color: var(--lb-muted); border-top: 1px solid var(--lb-border); }
+.lb-license-note { max-width: 40rem; margin: .5rem auto 0; font-size: .8rem; line-height: 1.5; }
 .lb-eco { padding: 2.5rem 0 3rem; background: #fff; border-top: 1px solid var(--lb-border); }
 .lb-eco-badge { text-align: center; color: var(--lb-accent); font-weight: 700; font-size: .8rem; }
 .lb-eco h2, .lb-eco .lb-muted { text-align: center; }

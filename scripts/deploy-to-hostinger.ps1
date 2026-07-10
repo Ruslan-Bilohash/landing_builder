@@ -15,7 +15,9 @@ try {
     New-Item -ItemType Directory -Path $staging -Force | Out-Null
     $items = @(
         '.htaccess', 'config.php', 'init.php', 'index.php', 'builder.php', 'demo-install.php',
-        'README.md', 'composer.json', 'Dockerfile',
+        'README.md', 'LICENSE', 'LICENSE-de.md', 'LICENSE-lt.md', 'LICENSE-no.md',
+        'LICENSE-pl.md', 'LICENSE-ru.md', 'LICENSE-sv.md', 'LICENSE-uk.md',
+        'composer.json', 'Dockerfile',
         'includes', 'lang', 'assets', 'docs'
     )
     foreach ($item in $items) {
