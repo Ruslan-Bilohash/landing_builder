@@ -1,0 +1,3 @@
+scripts/deploy.config.local.ps1
+dist/*.zip
+_deploy-*.zip

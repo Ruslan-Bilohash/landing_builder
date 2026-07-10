@@ -1,0 +1,9 @@
+{
+    "name": "bilohash/landing-builder",
+    "description": "BILOHASH Landing Builder — Elementor-style visual page builder with HTML export",
+    "type": "project",
+    "license": "proprietary",
+    "require": {
+        "php": ">=8.1"
+    }
+}

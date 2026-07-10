@@ -1,0 +1,5 @@
+.git
+.github
+dist
+scripts/deploy.config.local.ps1
+scripts/extract-lang.php
